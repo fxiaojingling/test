@@ -1,0 +1,13 @@
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Model\bin\Debug\net5.0\Lc.Bht.Model.deps.json
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Model\bin\Debug\net5.0\Lc.Bht.Model.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Model\bin\Debug\net5.0\ref\Lc.Bht.Model.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Model\bin\Debug\net5.0\Lc.Bht.Model.pdb
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Model\bin\Debug\net5.0\Lc.Bht.Model.xml
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Model\obj\Debug\net5.0\Lc.Bht.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Model\obj\Debug\net5.0\Lc.Bht.Model.AssemblyInfoInputs.cache
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Model\obj\Debug\net5.0\Lc.Bht.Model.AssemblyInfo.cs
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Model\obj\Debug\net5.0\Lc.Bht.Model.csproj.CoreCompileInputs.cache
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Model\obj\Debug\net5.0\Lc.Bht.Model.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Model\obj\Debug\net5.0\ref\Lc.Bht.Model.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Model\obj\Debug\net5.0\Lc.Bht.Model.pdb
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Model\obj\Debug\net5.0\Lc.Bht.Model.csproj.AssemblyReference.cache

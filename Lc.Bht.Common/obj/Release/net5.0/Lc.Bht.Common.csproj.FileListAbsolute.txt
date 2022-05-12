@@ -1,0 +1,15 @@
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\bin\Release\net5.0\Lc.Bht.Common.deps.json
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\bin\Release\net5.0\Lc.Bht.Common.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\bin\Release\net5.0\ref\Lc.Bht.Common.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\bin\Release\net5.0\Lc.Bht.Common.pdb
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\bin\Release\net5.0\Lc.Bht.Model.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\bin\Release\net5.0\Lc.Bht.Model.pdb
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\obj\Release\net5.0\Lc.Bht.Common.csproj.AssemblyReference.cache
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\obj\Release\net5.0\Lc.Bht.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\obj\Release\net5.0\Lc.Bht.Common.AssemblyInfoInputs.cache
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\obj\Release\net5.0\Lc.Bht.Common.AssemblyInfo.cs
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\obj\Release\net5.0\Lc.Bht.Common.csproj.CoreCompileInputs.cache
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\obj\Release\net5.0\Lc.Bht.Common.csproj.CopyComplete
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\obj\Release\net5.0\Lc.Bht.Common.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\obj\Release\net5.0\ref\Lc.Bht.Common.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Common\obj\Release\net5.0\Lc.Bht.Common.pdb

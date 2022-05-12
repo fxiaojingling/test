@@ -1,0 +1,16 @@
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\bin\Debug\net5.0\Lc.Bht.Interfaces.deps.json
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\bin\Debug\net5.0\Lc.Bht.Interfaces.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\bin\Debug\net5.0\ref\Lc.Bht.Interfaces.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\bin\Debug\net5.0\Lc.Bht.Interfaces.pdb
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\bin\Debug\net5.0\Lc.Bht.Model.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\bin\Debug\net5.0\Lc.Bht.Model.pdb
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\bin\Debug\net5.0\Lc.Bht.Model.xml
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\obj\Debug\net5.0\Lc.Bht.Interfaces.csproj.AssemblyReference.cache
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\obj\Debug\net5.0\Lc.Bht.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\obj\Debug\net5.0\Lc.Bht.Interfaces.AssemblyInfoInputs.cache
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\obj\Debug\net5.0\Lc.Bht.Interfaces.AssemblyInfo.cs
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\obj\Debug\net5.0\Lc.Bht.Interfaces.csproj.CoreCompileInputs.cache
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\obj\Debug\net5.0\Lc.Bht.Interfaces.csproj.CopyComplete
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\obj\Debug\net5.0\Lc.Bht.Interfaces.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\obj\Debug\net5.0\ref\Lc.Bht.Interfaces.dll
+E:\fxiaojingling\ProjectCode\Lc.Bht.Admin\Lc.Bht.Interfaces\obj\Debug\net5.0\Lc.Bht.Interfaces.pdb
